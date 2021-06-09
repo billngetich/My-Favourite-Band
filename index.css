@@ -36,9 +36,9 @@ h3 {
 }
 a:hover {
     background-color: cyan;
-    padding: 20px;
+    padding: 10px;
     color: blue;
-    text-decoration: none;
+    color: red;
 }
 
 
